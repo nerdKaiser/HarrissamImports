@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.northstar">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/norther"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".Fin.FinancePayer"
+            android:exported="false"
+            android:parentActivityName=".Fin.FinaDash"/>
+        <activity
+            android:name=".Client.StartCht"
+            android:exported="false"
+            android:parentActivityName=".Client.ClientDash" />
+        <activity
+            android:name=".Supp.SupPay"
+            android:exported="false"
+            android:parentActivityName=".Supp.SuppDas" />
+        <activity
+            android:name=".Fin.Disbursement"
+            android:exported="false"
+            android:parentActivityName=".Fin.FinaDash" />
+        <activity
+            android:name=".Tech.OngoingTech"
+            android:exported="false"
+            android:parentActivityName=".Tech.Technician" />
+        <activity
+            android:name=".Tech.TechProjectHist"
+            android:exported="false"
+            android:parentActivityName=".Tech.Technician" />
+        <activity
+            android:name=".Eng.ProjHist"
+            android:exported="false"
+            android:parentActivityName=".Eng.EngDash" />
+        <activity
+            android:name=".Eng.OnGoingEng"
+            android:exported="false"
+            android:parentActivityName=".Eng.EngDash" />
+        <activity
+            android:name=".Mgr.AvailableEng"
+            android:exported="false"
+            android:parentActivityName=".Mgr.AvailableEng" />
+        <activity
+            android:name=".Client.HistoryPay"
+            android:exported="false"
+            android:parentActivityName=".Client.ClientDash" />
+        <activity
+            android:name=".Mgr.AssignEng"
+            android:exported="false"
+            android:parentActivityName=".Mgr.MgrDash" />
+        <activity
+            android:name=".Fin.PayHistory"
+            android:exported="false" />
+        <activity
+            android:name=".Client.CliFeed"
+            android:exported="false"
+            android:parentActivityName=".Client.ClientDash" />
+        <activity
+            android:name=".Client.PaymentReceipt"
+            android:exported="false"
+            android:parentActivityName=".Client.ClientDash" />
+        <activity
+            android:name=".Client.RequestHistory"
+            android:exported="false"
+            android:parentActivityName=".Client.ClientDash" />
+        <activity
+            android:name=".Client.PeakProjects"
+            android:exported="false"
+            android:parentActivityName=".Client.ClientDash" />
+        <activity
+            android:name=".Client.GalleryAward"
+            android:exported="false"
+            android:parentActivityName=".Client.ClientDash" />
+        <activity
+            android:name=".Client.GalleryProj"
+            android:exported="false"
+            android:parentActivityName=".Client.ClientDash" />
+        <activity
+            android:name=".Client.ConfirmedRequest"
+            android:exported="false"
+            android:parentActivityName=".Client.ClientDash" />
+        <activity
+            android:name=".Supp.SupplyHistory"
+            android:exported="false" />
+        <activity
+            android:name=".Mgr.RequestHist"
+            android:exported="false"
+            android:parentActivityName=".Mgr.MgrDash" />
+        <activity
+            android:name=".Mgr.RequestNew"
+            android:exported="false"
+            android:parentActivityName=".Mgr.MgrDash" />
+        <activity
+            android:name=".Mgr.SupplyHist"
+            android:exported="false"
+            android:parentActivityName=".Mgr.MgrDash" />
+        <activity
+            android:name=".Mgr.CompletedProj"
+            android:exported="false"
+            android:parentActivityName=".Mgr.MgrDash" />
+        <activity
+            android:name=".Mgr.OnGoingProject"
+            android:exported="false"
+            android:parentActivityName=".Mgr.MgrDash" />
+        <activity
+            android:name=".Mgr.AwardGallery"
+            android:configChanges="orientation"
+            android:exported="false"
+            android:parentActivityName=".Mgr.MgrDash"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mgr.ProjectGallery"
+            android:configChanges="orientation"
+            android:exported="false"
+            android:parentActivityName=".Mgr.MgrDash"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mgr.MakeOrder"
+            android:exported="false"
+            android:parentActivityName=".Mgr.MgrDash" />
+        <activity
+            android:name=".Mgr.NewProducts"
+            android:exported="false"
+            android:parentActivityName=".Mgr.MgrDash" />
+        <activity
+            android:name=".Mgr.Reviewing"
+            android:exported="false" />
+        <activity
+            android:name=".Fin.AccountRec"
+            android:exported="false" />
+        <activity
+            android:name=".Supp.Payment"
+            android:exported="false" />
+        <activity
+            android:name=".Mgr.Store"
+            android:exported="false"
+            android:parentActivityName=".Mgr.MgrDash" />
+        <activity
+            android:name=".Mgr.MgrDash"
+            android:exported="false" />
+        <activity
+            android:name=".Fin.FinaDash"
+            android:exported="false" />
+        <activity
+            android:name=".Tech.Technician"
+            android:exported="false" />
+        <activity
+            android:name=".Eng.EngDash"
+            android:exported="false" />
+        <activity
+            android:name=".Supp.SuppDas"
+            android:exported="false" />
+        <activity
+            android:name=".Client.ClientDash"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Splash"
+            android:configChanges="orientation"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="5sp"
+    android:background="#fff"
+    android:orientation="vertical"
+    android:padding="5sp">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:background="#5065DA"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/theAward"
+            android:layout_width="120dp"
+            android:layout_height="120dp"/>
+
+    </RelativeLayout>
+</LinearLayout>
+
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/btnChoice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:background="#152DB3"
+        android:text=" Enter Cheque Details "
+        android:textAllCaps="false"
+        android:textColor="#fff" />
+    <Button
+        android:id="@+id/btnShow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:background="#0589C5"
+        android:text=" Show "
+        android:visibility="gone"
+        android:textAllCaps="false"
+        android:textColor="#fff" />
+    <Button
+        android:id="@+id/btnHide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:background="#E91E63"
+        android:text=" Hide "
+        android:visibility="gone"
+        android:textAllCaps="false"
+        android:textColor="#fff" />
+
+    <RelativeLayout
+        android:id="@+id/relative"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:background="#6ADA70">
+
+        <Spinner
+            android:id="@+id/spnrStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp" />
+
+        <EditText
+            android:id="@+id/editAccount"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/spnrStatus"
+            android:hint="Your Bank Account Number"
+            android:inputType="number"
+            android:maxLength="15"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/editCheque"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editAccount"
+            android:hint="Cheque Number"
+            android:inputType="number"
+            android:maxLength="6"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnApp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editCheque"
+            android:text="Submit"
+            android:textAllCaps="false" />
+    </RelativeLayout>
+</RelativeLayout>

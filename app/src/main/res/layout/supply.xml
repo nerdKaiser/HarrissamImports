@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10sp"
+    android:background="#DDCFCF"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnUpload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/backy"
+        android:text="Upload"
+        android:textAllCaps="false"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnUpload"
+        android:visibility="gone"
+        android:id="@+id/scroll"
+        android:layout_marginBottom="10sp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="10sp" />
+
+            <EditText
+                android:id="@+id/editQuantity"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10sp"
+                android:layout_marginTop="15sp"
+                android:layout_marginRight="150dp"
+                android:background="#fff"
+                android:hint="Quantity:"
+                android:inputType="number"
+                android:maxLength="6"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/editPrice"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editQuantity"
+                android:layout_marginLeft="10sp"
+                android:layout_marginTop="15sp"
+                android:layout_marginRight="150dp"
+                android:background="#fff"
+                android:hint="Unit Price:"
+                android:inputType="number"
+                android:maxLength="8"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/editDescription"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editPrice"
+                android:layout_marginLeft="10sp"
+                android:layout_marginTop="15sp"
+                android:layout_marginRight="150dp"
+                android:background="#fff"
+                android:gravity="top"
+                android:hint="Description."
+                android:inputType="text"
+                android:maxLength="150"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/btnBrowse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imageView"
+                android:layout_margin="10sp"
+                android:layout_marginStart="10sp"
+                android:layout_marginTop="10sp"
+                android:layout_marginEnd="10sp"
+                android:layout_marginBottom="10sp"
+                android:background="#F8E21D"
+                android:text="Browse_Image"
+                android:textAllCaps="false"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btnSubmit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imageView"
+                android:layout_margin="10sp"
+                android:layout_toRightOf="@+id/btnBrowse"
+                android:background="#05B50C"
+                android:text="Submit"
+                android:textAllCaps="false"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/manned"
+    android:layout_height="wrap_content"
+    android:layout_margin="2sp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp">
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:gravity="center_horizontal"
+                android:text="@string/title"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/title"
+                android:text="name" />
+
+            <TextView
+                android:id="@+id/textcompany"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtname"
+                android:text="company" />
+
+            <TextView
+                android:id="@+id/textaddress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textcompany"
+                android:text="address" />
+
+            <TextView
+                android:id="@+id/txtzipped"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textaddress"
+                android:text="zipped code" />
+
+            <TextView
+                android:id="@+id/txtPhone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtzipped"
+                android:text="BusinessPhone" />
+
+            <TextView
+                android:id="@+id/txtcheque"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/title"
+                android:layout_alignParentRight="true"
+                android:text="chequeNo"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtdate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtPhone"
+                android:layout_alignParentRight="true"
+                android:text="transaction date" />
+
+            <TextView
+                android:id="@+id/txtOrder"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtdate"
+                android:text="Paid to the order" />
+
+            <TextView
+                android:id="@+id/txtAmount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtOrder"
+                android:layout_alignParentRight="true"
+                android:text="amount" />
+
+            <TextView
+                android:id="@+id/txtWord"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtAmount"
+                android:text="Amount in words" />
+
+            <TextView
+                android:id="@+id/txtbank"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtWord"
+                android:text="bank" />
+
+            <com.example.northstar.middle.Lining
+                android:id="@+id/routwe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtbank"
+                android:text="NSTR0134541" />
+
+            <TextView
+                android:id="@+id/txtRouting"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/routwe"
+                android:text="Routing\nNumber"
+                android:textColor="#D51C0E"
+                android:textStyle="bold" />
+
+            <com.example.northstar.middle.Lining
+                android:id="@+id/txtAccount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtbank"
+                android:layout_marginLeft="7sp"
+                android:layout_toRightOf="@+id/routwe"
+                android:text="account" />
+
+            <TextView
+                android:id="@+id/oyaAccoun"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtAccount"
+                android:layout_marginLeft="7sp"
+                android:layout_toRightOf="@+id/routwe"
+                android:text="Account\nNumber"
+                android:textColor="#05AE0C"
+                android:textStyle="bold" />
+
+            <com.example.northstar.middle.Lining
+                android:id="@+id/txtCheck"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtbank"
+                android:layout_marginLeft="7sp"
+                android:layout_toRightOf="@+id/txtAccount"
+                android:text="cheque" />
+
+            <TextView
+                android:id="@+id/mycheck"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtAccount"
+                android:layout_marginLeft="7sp"
+                android:layout_toRightOf="@+id/txtAccount"
+                android:text="Cheque\nNumber"
+                android:textColor="#0C24AE"
+                android:textStyle="bold" />
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

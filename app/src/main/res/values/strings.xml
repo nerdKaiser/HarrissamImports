@@ -1,0 +1,208 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">North Star</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="Field">
+        <item>Select Field</item>
+        <item>Air Conditioning</item>
+        <item>Ventilation Fans</item>
+        <item>Cold Room</item>
+        <item>Grills &amp; Diffusers</item>
+        <item>Pumps</item>
+        <item>Building Automation Systems</item>
+    </string-array>
+    <string-array name="Contact">
+        <item>Select Recipient</item>
+        <item>Admin</item>
+        <item>Finance</item>
+        <item>Inventory</item>
+    </string-array>
+    <string-array name="Status">
+        <item>Select Status</item>
+        <item>Approved</item>
+        <item>Rejected</item>
+    </string-array>
+    <string-array name="Scale">
+        <item>Select Company Scale</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Extra Large</item>
+    </string-array>
+    <string-array name="Bank">
+        <item>Select Bank</item>
+        <item>KCB</item>
+        <item>Equity</item>
+        <item>Cooperative</item>
+        <item>Family Bank</item>
+        <item>National Bank</item>
+        <item>Barclays Bank</item>
+        <item>Microfinance</item>
+        <item>Western Union</item>
+    </string-array>
+    <string-array name="Product">
+        <item>Select Service</item>
+        <item>Air Conditioning</item>
+        <item>Ventilation Fans</item>
+        <item>Cold Room</item>
+        <item>Grills &amp; Diffusers</item>
+        <item>Pumps</item>
+        <item>Building Automation Systems</item>
+    </string-array>
+    <string-array name="Partner">
+        <item>Select Company</item>
+        <item>Carrier</item>
+        <item>Toshiba</item>
+        <item>NuAire</item>
+        <item>Sodeca</item>
+        <item>Dynair</item>
+        <item>Foster</item>
+        <item>Electrolux</item>
+        <item>Trox Technik</item>
+        <item>AirMaster</item>
+        <item>ArmStrong</item>
+        <item>Sauter</item>
+        <item>Siemens</item>
+    </string-array>
+    <string-array name="Residence">
+        <item>Select Country</item>
+        <item>Kenya</item>
+        <item>USA</item>
+        <item>India</item>
+        <item>China</item>
+        <item>London</item>
+        <item>Japan</item>
+        <item>Pennysylvania</item>
+        <item>Switzerland</item>
+        <item>Italy</item>
+        <item>Britain</item>
+        <item>Spain</item>
+        <item>Sweden</item>
+        <item>Georgia</item>
+    </string-array>
+    <string name="about">
+        <u><big><b>WELCOME TO HARRISSAM IMPORTS!</b></big></u>
+        \nWe are Kenya\'s \'go-to\' people for Design,\nSupply, Installation, Maintenance &amp; Optimisation of mission critical HVAC &amp; Refrigeration Systems.\nAt North Star we have put smiles on many customers this pas 15 years with a strong focus on catering customer needs leveraging a solid engineering &amp; technology foundation.\nWhether you are a bank, a shopping mall, a hospital or a business of any shape or size, we are the one-stop-shop!
+        \n<u><big><b>Contact/Address</b></big></u>\n
+        <i><b>P.O.Box: </b> 5085-00506, Nairobi.</i>\n
+        <i><b>Telephone/Fax: </b>+254-20-2013142</i>\n
+        <i><b>Cell Phone: </b>+254-710200400, 7377777600</i>\n
+        <i><b>E-Mail: </b><u>mulei@harrissam.co.ke</u></i>\n
+        <i><b>Location:---->>> </b></i>
+    </string>
+    <string name="help_string">
+        <u><big><b>GENERAL</b></big></u>
+    \n
+    <u><b>How to Sign up &amp; Login </b></u>
+    \n
+    \n
+    •	Click your respective card from the home screen.
+    \n
+    •	Enter your personal details and hit submit button.
+    \n
+    •	Once your account has been approved by the admin, you will be in a position to log in to your dashboard
+    \n
+    \n
+    <u> <big><b>CUSTOMER SERVICE REQUEST</b></big></u>
+    <u> <b>How to send an Importation Request </b></u>
+    \n
+    \n
+    •	Login into your dashboard
+    \n
+    •	Select <b>Add new Importation request</b>
+    \n
+    •	Describe the type of the service you are intending to request
+    \n
+    •	Click the submit button.
+    \n
+    •	The requested service will be verified by Inventory manager
+        \n
+    •	Once the Request has been confirmed, you will be in a position to make payment
+        \n
+    •	Enter bank details. and Click Submit button
+    \n
+    •	Once your payment has been approved, an Engineer and a team of technicians will be assigned to get to your company site.
+   \n\n
+    <u><big><b>SUPPLIER FAQs</b></big></u>\n
+        <u><b>How to supply product</b></u>
+    \n
+    •	Login into your dashboard
+    \n
+    •	Check on the posted bids.
+    \n
+    •	Click to upload products
+    \n
+    </string>
+    <string-array name="Country">
+        <item>Select Country</item>
+        <item>Kenya</item>
+        <item>Uganda</item>
+        <item>Tanzania</item>
+        <item>Ethiopia</item>
+        <item>Sudan</item>
+        <item>Somalia</item>
+        <item>Rwanda</item>
+        <item>Burundi</item>
+    </string-array>
+    <string-array name="Role">
+        <item>Select Role</item>
+        <item>Engineer</item>
+        <item>Cashier</item>
+        <item>Stock Manager</item>
+        <item>Technician</item>
+    </string-array>
+    <string-array name="Location">
+        <item>Select Address</item>
+        <item>Kirinyaga</item>
+        <item>Embu</item>
+        <item>Muranga</item>
+        <item>Nyeri</item>
+        <item>Kiambu</item>
+        <item>Nyandarua</item>
+        <item>Meru</item>
+        <item>Nairobi</item>
+        <item>Mombasa</item>
+        <item>Garissa</item>
+        <item>Tharaka Nithi</item>
+        <item>Bomet</item>
+        <item>Nyamira</item>
+        <item>Siaya</item>
+        <item>Homabay</item>
+        <item>Makueni</item>
+        <item>Machakos</item>
+        <item>Kilifi</item>
+        <item>Nakuru</item>
+        <item>Laikipia</item>
+        <item>Kakamega</item>
+        <item>Bungoma</item>
+        <item>Kitui</item>
+        <item>Kisii</item>
+        <item>Tana River</item>
+        <item>Taita Taveta</item>
+        <item>Wajir</item>
+        <item>Kwale</item>
+        <item>Mandera</item>
+        <item>Isiolo</item>
+        <item>Marsabit</item>
+        <item>Turkana</item>
+        <item>Narok</item>
+        <item>Kajiando</item>
+        <item>Kericho</item>
+        <item>Vihiga</item>
+        <item>Migori</item>
+        <item>Kisumu</item>
+        <item>Baringo</item>
+        <item>Nandi</item>
+        <item>Elgeyo Marakwet</item>
+        <item>Samburu</item>
+        <item>West Pokot</item>
+        <item>Trans Nzoia</item>
+    </string-array>
+    <string name="special"><![CDATA[[!.,@#$%^&+=]]]></string>
+    <string name="valid_email">[a-z0-9._%+-]+@gmail+\\.[a-z]{2,4}</string>
+    <string name="valid_email2">[a-z0-9._%+-]+@yahoo+\\.[a-z]{2,4}</string>
+    <string name="upper">[A-Z]</string>
+    <string name="lower">[a-z]</string>
+    <string name="numbers">[0–9]</string>
+    <string name="title" tools:ignore="TypographyDashes">HARRISSAM IMPORTS LTD\nP.O.Box: 5085–00506, Kitengela Nairobi.\n Phone: +254727633726, +254797532537\n E-Mail: mulei@harrissamimports.co.ke,\neng@northstar.co.ke</string>
+</resources>

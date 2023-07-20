@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable-v24/card_background.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable-v24/serlector.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/about.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/customer.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/developer.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/engineer.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/exit.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/finance.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/help.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/history.xml" value="0.225" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/hom.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/home.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/manager.xml" value="0.20277777777777778" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/order.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/plan.xml" value="0.225" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/profile.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/project.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/rate.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/record.xml" value="0.225" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/service.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/sign.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/store.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/supplier.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/drawable/technician.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/about.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_account_rec.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_assign_eng.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_available_eng.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_award_gallery.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_cli_feed.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_client_dash.xml" value="0.13272543059777103" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_completed_proj.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_confirmed_request.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_customer_dash.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_design_plan.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_disbursement.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_eng_dash.xml" value="0.25" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_fina_dash.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_finance_payer.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_gallery_award.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_gallery_proj.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_history_pay.xml" value="0.25" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_make_order.xml" value="0.13272543059777103" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_mgr_dash.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_mgr_eng.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_new_products.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_on_going_eng.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_on_going_project.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_ongoing_tech.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_order.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_order_history.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_other_request.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_pay_history.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_payment.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_payment_receipt.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_peak_projects.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_planned.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_planning.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_products.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_proj_hist.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_project.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_project_gallery.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_projector.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_req_feedback.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_request_hist.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_request_history.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_request_new.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_reviewing.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_reviews.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_service.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_site.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_sites.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_splash.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_start_cht.xml" value="0.13272543059777103" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_store.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_sup_pay.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_supp_das.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_supply_hist.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_supply_history.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_tech_project_hist.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/activity_technician.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/add_new.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/blessing.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/client.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/close_job.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/coding.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/complete.xml" value="0.22" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/cust.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/emerge.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/emp.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/feedhist.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/feedyes.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/fetch_cash.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/fetch_image.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/fetche_me.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/fetched_data.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/final_pay.xml" value="0.13272543059777103" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/hide_proj.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/image_check.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/image_zoom.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/inbox_me.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/log_in.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/mindful.xml" value="0.25" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/muembe.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/new_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/on_going.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/payment.xml" value="0.22" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/payment_stab.xml" value="0.25" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/putin_russia.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/rated.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/rating.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/reset_pass.xml" value="0.25" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/sleet.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/spinned_req.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/sup.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/sup_getter.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/supply.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/tatoo.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/tech.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/true_gen.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/view_image.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/layout/wakuu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/menu/customer.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/menu/finace.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/menu/finance.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/menu/manger.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/menu/menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/menu/owner.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/menu/personal.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/menu/supplier.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/22MAY/AndroidStudioProjects/NorthStar/app/src/main/res/menu/worker.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

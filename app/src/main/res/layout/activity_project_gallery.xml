@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Mgr.ProjectGallery">
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        android:background="#05B50C"
+        android:text="Add New"
+        android:textAllCaps="false"
+        android:textStyle="bold" />
+    <GridView
+        android:id="@+id/gridV"
+        android:layout_below="@+id/btnAdd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:columnWidth="120dp"
+        android:gravity="center"
+        android:numColumns="auto_fit"/>
+
+</RelativeLayout>
