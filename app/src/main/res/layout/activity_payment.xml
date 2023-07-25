@@ -139,7 +139,7 @@
                     android:layout_weight="1"
                     android:text="SUBTOTAL" />
 
-                <com.example.northstar.middle.Lining
+                <com.example.harrissamimports.middle.Lining
                     android:id="@+id/mySum"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"

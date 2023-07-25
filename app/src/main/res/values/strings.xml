@@ -1,5 +1,4 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">North Star</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string-array name="Field">
@@ -84,7 +83,7 @@
         <u><big><b>WELCOME TO HARRISSAM IMPORTS!</b></big></u>
         \nWe are Kenya\'s \'go-to\' people for Design,\nSupply, Installation, Maintenance &amp; Optimisation of mission critical HVAC &amp; Refrigeration Systems.\nAt North Star we have put smiles on many customers this pas 15 years with a strong focus on catering customer needs leveraging a solid engineering &amp; technology foundation.\nWhether you are a bank, a shopping mall, a hospital or a business of any shape or size, we are the one-stop-shop!
         \n<u><big><b>Contact/Address</b></big></u>\n
-        <i><b>P.O.Box: </b> 5085-00506, Nairobi.</i>\n
+        <i><b>P.O.Box: </b> 5085-00506, Kitengela.</i>\n
         <i><b>Telephone/Fax: </b>+254-20-2013142</i>\n
         <i><b>Cell Phone: </b>+254-710200400, 7377777600</i>\n
         <i><b>E-Mail: </b><u>mulei@harrissam.co.ke</u></i>\n
@@ -93,40 +92,42 @@
     <string name="help_string">
         <u><big><b>GENERAL</b></big></u>
     \n
-    <u><b>How to Sign up &amp; Login </b></u>
+    <u><b>How do I sign up\? &amp; Login </b></u>
     \n
     \n
     •	Click your respective card from the home screen.
     \n
-    •	Enter your personal details and hit submit button.
+    •	Enter your personal details and click the submit button.
     \n
-    •	Once your account has been approved by the admin, you will be in a position to log in to your dashboard
-    \n
-    \n
-    <u> <big><b>CUSTOMER SERVICE REQUEST</b></big></u>
-    <u> <b>How to send an Importation Request </b></u>
+    •	Once your account has been approved by the administrator, you will be able to log in to your dashboard
     \n
     \n
-    •	Login into your dashboard
+    <u> <big><b>CUSTOMER FAQs</b></big></u>
+    <u> <b>\nHow do I send an Importation Request\? </b></u>
+    \n
+    \n
+    •	Log into your dashboard
     \n
     •	Select <b>Add new Importation request</b>
     \n
-    •	Describe the type of the service you are intending to request
+    •	Describe the type of the product you are intending to request
     \n
-    •	Click the submit button.
+    •	Click the submit button
     \n
-    •	The requested service will be verified by Inventory manager
+    •	The availability of the requested product will be verified by an Imports Specialist
         \n
-    •	Once the Request has been confirmed, you will be in a position to make payment
+    •	The Imports Specialist will then approve or reject the request
         \n
-    •	Enter bank details. and Click Submit button
+    •	If the Request is confirmed, you will be in a position to make payment
+        \n
+    •	Enter bank details and Click Submit button.
     \n
-    •	Once your payment has been approved, an Engineer and a team of technicians will be assigned to get to your company site.
+    •	Once your payment has been approved, the company will handle the order
    \n\n
     <u><big><b>SUPPLIER FAQs</b></big></u>\n
         <u><b>How to supply product</b></u>
     \n
-    •	Login into your dashboard
+    •	Log into your dashboard
     \n
     •	Check on the posted bids.
     \n
@@ -147,9 +148,11 @@
     <string-array name="Role">
         <item>Select Role</item>
         <item>Engineer</item>
+        <item>Finance Manager</item>
+        <item>Marketing Manager</item>
         <item>Cashier</item>
         <item>Stock Manager</item>
-        <item>Technician</item>
+        <item>Import Specialist</item>
     </string-array>
     <string-array name="Location">
         <item>Select Address</item>
@@ -204,5 +207,6 @@
     <string name="upper">[A-Z]</string>
     <string name="lower">[a-z]</string>
     <string name="numbers">[0–9]</string>
-    <string name="title" tools:ignore="TypographyDashes">HARRISSAM IMPORTS LTD\nP.O.Box: 5085–00506, Kitengela Nairobi.\n Phone: +254727633726, +254797532537\n E-Mail: mulei@harrissamimports.co.ke,\neng@northstar.co.ke</string>
+    <string name="title" tools:ignore="TypographyDashes">HARRISSAM IMPORTS LTD\nP.O.Box: 5085–00506, Kitengela Nairobi.\n Phone: +254727633726, +254797532537\n E-Mail: mulei@harrissamimports.co.ke</string>
+    <string name="app_name">Harrissam Imports</string>
 </resources>

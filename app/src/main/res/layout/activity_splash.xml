@@ -18,7 +18,7 @@
         android:shadowDx="-8"
         android:shadowDy="-8"
         android:shadowRadius="1.5"
-        android:text="North Star Ltd\nCooling\nAutomated System"
+        android:text="Harrissam  Imports Ltd\n System"
         android:textColor="#000"
         android:textSize="25sp"
         android:textStyle="bold" />

@@ -104,7 +104,7 @@
                 android:layout_below="@+id/txtWord"
                 android:text="bank" />
 
-            <com.example.northstar.middle.Lining
+            <com.example.harrissamimports.middle.Lining
                 android:id="@+id/routwe"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -120,7 +120,7 @@
                 android:textColor="#D51C0E"
                 android:textStyle="bold" />
 
-            <com.example.northstar.middle.Lining
+            <com.example.harrissamimports.middle.Lining
                 android:id="@+id/txtAccount"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -140,7 +140,7 @@
                 android:textColor="#05AE0C"
                 android:textStyle="bold" />
 
-            <com.example.northstar.middle.Lining
+            <com.example.harrissamimports.middle.Lining
                 android:id="@+id/txtCheck"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
