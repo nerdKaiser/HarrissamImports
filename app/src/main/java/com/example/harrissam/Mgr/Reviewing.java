@@ -55,7 +55,7 @@ public class Reviewing extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Objects.requireNonNull(getSupportActionBar()).setTitle("Client Ratings");
+        Objects.requireNonNull(getSupportActionBar()).setTitle("Customer Ratings");
         setContentView(R.layout.activity_reviewing);
         customerSession = new ManagerSession(getApplicationContext());
         customerModel = customerSession.getMgrDetails();

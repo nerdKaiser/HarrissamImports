@@ -110,7 +110,7 @@ public class GalleryProj extends AppCompatActivity implements View.OnTouchListen
                                 String id = jsonObject.getString("id");
                                 String description = jsonObject.getString("description");
                                 String image = jsonObject.getString("image");
-                                String imagery = "https://granhmtechbytes.000webhostapp.com/harrissamimports/androidappi/images/" + image;
+                                String imagery = "https://harrissamimports1.000webhostapp.com/androidappi/images/" + image;
                                 String reg_date = jsonObject.getString("reg_date");
                                 subject = new AwardMod(id, description, imagery, reg_date);
                                 SubjectList.add(subject);

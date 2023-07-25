@@ -165,7 +165,7 @@ public class OnGoingProject extends AppCompatActivity {
                                 String begin = jsonObject.getString("begin");
                                 String background = jsonObject.getString("background");
                                 String image = jsonObject.getString("image");
-                                String imagery = "https://granhmtechbytes.000webhostapp.com/testing1/androidappi/images/" + image;
+                                String imagery = "https://harrissamimports1.000webhostapp.com/androidappi/images/" + image;
                                 String engineer = jsonObject.getString("engineer");
                                 String engend = jsonObject.getString("engend");
                                 String manager = jsonObject.getString("manager");

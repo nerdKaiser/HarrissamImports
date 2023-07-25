@@ -92,7 +92,7 @@ public class Store extends AppCompatActivity {
                                 String product = jsonObject.getString("product");
                                 String description = jsonObject.getString("description");
                                 String image = jsonObject.getString("image");
-                                String imagery = "https://granhmtechbytes.000webhostapp.com/testing1/androidappi/images/" + image;
+                                String imagery = "https://harrissamimports1.000webhostapp.com/androidappi/images/" + image;
                                 String quantity = jsonObject.getString("quantity");
                                 String price = jsonObject.getString("price");
                                 String reg_date = jsonObject.getString("reg_date");

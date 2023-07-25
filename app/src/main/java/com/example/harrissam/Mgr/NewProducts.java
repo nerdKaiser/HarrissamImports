@@ -102,7 +102,7 @@ public class NewProducts extends AppCompatActivity {
                                 String quantity = jsonObject.getString("quantity");
                                 String description = jsonObject.getString("description");
                                 String image = jsonObject.getString("image");
-                                String imagery = "https://granhmtechbytes.000webhostapp.com/harrissamimports/androidappi/images/" + image;
+                                String imagery = "https://harrissamimports1.000webhostapp.com/androidappi/images/" + image;
                                 String statusd = jsonObject.getString("status");
                                 String comment = jsonObject.getString("comment");
                                 String reg_date = jsonObject.getString("reg_date");
